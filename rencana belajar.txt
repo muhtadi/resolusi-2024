@@ -1,3 +1,5 @@
 rencana belajar
 - machine learning
 - deep learning
+- computer vision
+- LLM's
