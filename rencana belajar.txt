@@ -1,0 +1,3 @@
+rencana belajar
+- machine learning
+- deep learning
